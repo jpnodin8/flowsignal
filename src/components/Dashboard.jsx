@@ -1,0 +1,1 @@
+import React from 'react'; const Dashboard = () => <div className='text-white p-4'>FlowSignal AI Dashboard Placeholder</div>; export default Dashboard;
